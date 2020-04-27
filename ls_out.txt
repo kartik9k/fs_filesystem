@@ -1,0 +1,8 @@
+.
+..
+.DS_Store
+ls_out.txt
+a.out
+.git
+.vscode
+redirection_using_dup.cpp
